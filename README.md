@@ -75,28 +75,28 @@
     </div>
 
     <div class="item">
-      <h3><span class="emoji">🍑</span>Peach Tea</h3>
+      <h3><span class="emoji"></span>Peach Tea</h3>
       <p>
         Tenang… setelah dibakar sama bakso mercon, waktunya disiram sama yang seger-seger. Peach tea ini kayak teman yang adem, manis, dan nggak ribet. Warnanya cantik, rasanya lembut, dan pastinya cocok buat konten aesthetic di IG Story kamu.
       </p>
     </div>
 
     <div class="item">
-      <h3><span class="emoji">🍝</span>Spaghetti Pudding</h3>
+      <h3><span class="emoji"></span>Spaghetti Pudding</h3>
       <p>
         Yang ini rada nyeleneh, tapi uniknya justru bikin penasaran. Spaghetti + pudding = “loh, kok bisa?” Bisa dong! Rasa manis dan tekstur lembut bikin kamu mikir: “Kenapa baru sekarang nyobain ini?” Cocok buat kamu yang suka eksplor rasa baru!
       </p>
     </div>
 
     <div class="item">
-      <h3><span class="emoji">🧀</span>Pudding Cheese Ball</h3>
+      <h3><span class="emoji"></span>Pudding Cheese Ball</h3>
       <p>
         Bola kecil, tapi efeknya besar. Gigitan pertama lumer, gigitan kedua bikin senyum. Kombinasi manis dan gurih kejunya pas banget buat kamu yang suka kejutan lembut di dalam. Hati-hati, bisa bikin baper!
       </p>
     </div>
 
     <footer>
-      © 2025 | Konten by Kamu yang Suka Ngemil 😋
+      © 2025 | Konten by Kamu yang Suka Ngemil
     </footer>
   </div>
 </body>
